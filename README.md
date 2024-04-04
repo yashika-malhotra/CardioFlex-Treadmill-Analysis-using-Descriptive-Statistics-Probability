@@ -1,4 +1,4 @@
-# Business Case: Aerofit -  Descriptive Statistics & Probability
+# CardioFlex Treadmill Analysis using Descriptive Statistics & Probability
 <div align="center">
   <img src="https://github.com/yashika-malhotra/Aerofit-Descriptive-Statistics-Probability/assets/154385962/c3b6f2d2-ec24-47c8-a810-871cf938fcd3" width = 200 height =150/>
   <img src="https://github.com/yashika-malhotra/Aerofit-Descriptive-Statistics-Probability/assets/154385962/7e13a4a3-dfe2-41d8-9407-15138bdc28e8" width = 200 height =150/>
